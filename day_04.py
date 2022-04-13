@@ -7,10 +7,6 @@
 import math
 
 
-
-
-
-
 #note: 
 # test data has 3 boards defined and 27 call values
 # input data has 100 boards defined and 100 call values
@@ -118,6 +114,6 @@ def day4a(filename):
 day4a("day_04_a_test.txt")
 #day4a("day_04_a_input.txt")
 
-#day4b("day_04_a_test.txt")
-#day4b("day_04_a_input.txt")
+#day4b("day_04_b_test.txt")
+#day4b("day_04_b_input.txt")
 
